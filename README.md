@@ -1,4 +1,4 @@
-# network_tool
+# networks helper tool
 
 * Network info
 * Check ip address if available 
