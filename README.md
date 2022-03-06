@@ -1,5 +1,8 @@
 # network_tool
-scan the network and get informations
+
+* Network info
+* Check ip address if available 
+* Check connected devices
 
 # app info
 * python version : 3.9.2
